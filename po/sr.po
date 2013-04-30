@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Flight_of_Drakes-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 02:00+0100\n"
+"POT-Creation-Date: 2013-05-01 01:31+0200\n"
 "PO-Revision-Date: 2013-02-11 02:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,14 +18,14 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Flight_of_Drakes/include/common.cfg:10
 #: The_Flight_of_Drakes/scenarios/drakes-6.cfg:318
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:540
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:571
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:544
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:565
 msgid "Aaaaaaaaaaaaaaaaaargh!"
 msgstr ""
 
 #. [message]: id=Klader
 #: The_Flight_of_Drakes/include/common.cfg:23
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:563
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:557
 msgid "Noooooooooooooooooooo!"
 msgstr ""
 
@@ -37,7 +37,8 @@ msgstr ""
 #. [modify_unit]
 #. [unit]: id=Ilisfelle
 #: The_Flight_of_Drakes/include/common.cfg:47
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:611
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:108
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:605
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:73
 msgid "Ilisfelle"
 msgstr ""
@@ -175,8 +176,8 @@ msgstr ""
 #. [message]: id=Grelgar
 #. [message]: id=Klader
 #: The_Flight_of_Drakes/scenarios/drakes-1.cfg:146
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:580
-#: The_Flight_of_Drakes/scenarios/drakes-9.cfg:253
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:574
+#: The_Flight_of_Drakes/scenarios/drakes-9.cfg:251
 msgid "..."
 msgstr ""
 
@@ -689,7 +690,7 @@ msgstr ""
 
 #. [scenario]: id=04_drakes-4
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:6
-msgid "Deep in the Forest"
+msgid "The Emerald Forest"
 msgstr ""
 
 #. [part]
@@ -756,7 +757,9 @@ msgstr ""
 
 #. [message]: id=Neollyn
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:153
-msgid "Clearly. "
+msgid ""
+"Clearly. Elvish queens never refer to the Emerald Forest as something "
+"belonging to them."
 msgstr ""
 
 #. [message]: id=Zzunkz
@@ -826,7 +829,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:240
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:352
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:356
 msgid "You received 150 gold."
 msgstr ""
 
@@ -863,7 +866,7 @@ msgid ""
 "<i>''It is going on just as prescribed? It is prescribed just as it is going "
 "on? There is a bigger cause behind both? There is a bigger cause behind my "
 "existence as well? There cannot be a bigger cause behind my own actions than "
-"I myself am? Such thing as ''I'' exists?''</i>"
+"I myself am? Such thing as ''I'' exists, at all, does it?''</i>"
 msgstr ""
 
 #. [message]: id=Neollyn
@@ -893,7 +896,7 @@ msgstr ""
 
 #. [scenario]: id=05_drakes-5
 #: The_Flight_of_Drakes/scenarios/drakes-5.cfg:6
-msgid "Morning Sun"
+msgid "The Morning Sun"
 msgstr ""
 
 #. [part]
@@ -950,59 +953,68 @@ msgid ""
 "of Klader and his people."
 msgstr ""
 
+#. [modify_unit]
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:80
+msgid "The Fairy"
+msgstr ""
+
 #. [message]: id=Ilisfelle
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:83
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:84
 msgid ""
 "I'm sorry for the actions of Shinielle. And I'm greatful for you to save her "
-"from the suffering she has been through. My name is Ilisfelle, and I'm a "
-"fairy. I'd like to thank you for your help."
+"from the suffering she has been through. I'd like to thank you for your help."
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:87
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:88
 msgid ""
-"I sense strong magic surrounding you, Ilisfelle. I'm Neollyn the Silver, and "
-"I'm honored to meet you."
+"I sense strong magic surrounding you. I'm Neollyn the Silver, and I'm "
+"honored to meet you. Would you be kind enough to let us know your name?"
 msgstr ""
 
 #. [message]: id=Ilisfelle
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:101
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:97
+msgid "Ah ah sorry! I always forget to introduce myself."
+msgstr ""
+
+#. [message]: id=Ilisfelle
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:112
 msgid ""
-" Drake king Klader, if you have any desire I am be able to grant, I shall "
-"gladly do that for you."
+"My name is Ilisfelle, and I'm a fairy who lives nearby. Drake king Klader, "
+"if you have any desire I am be able to grant, I shall gladly do that for you."
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:105
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:116
 msgid "<i>She didn't even look at me ...</i>"
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:109
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:120
 msgid "Emmm ... Klader? You there, listening?"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:113
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:124
 msgid ""
 "Uhm ... yeah ... Grrr. I have no idea what two-legged creatures consider "
 "beautiful, but even I was stunned by the looks. "
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:117
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:128
 msgid ""
 "Not sure what sort of help we could ask for. Getting back to earth, we can't "
 "really afford too many people to learn about our purpose. "
 msgstr ""
 
 #. [message]: id=Ilisfelle
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:121
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:132
 msgid "You have a right to keep your secret, king Klader."
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:125
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:136
 msgid ""
 "The attack on Eastbridge might be pretty hard. We could use some help in the "
 "battle, don't you think? If she checks us out there, it could be a nice "
@@ -1010,19 +1022,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:129
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:140
 msgid "Good point."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:133
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:144
 msgid ""
 "Ilisfelle, may I ask you for an aid in a battle? Some sort of evil is rising "
 "at the east of there, so we could use some help."
 msgstr ""
 
 #. [message]: id=Ilisfelle
-#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:137
+#: The_Flight_of_Drakes/scenarios/drakes-5.cfg:148
 msgid ""
 "I may be helpful. I'm not usually communicating with other elves, so I can't "
 "make them fight. But my magic is powerful enough to change the tides of your "
@@ -1194,7 +1206,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Flight_of_Drakes/scenarios/drakes-6.cfg:441
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:371
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:375
 msgid "You received 200 gold."
 msgstr ""
 
@@ -1348,54 +1360,61 @@ msgid ""
 "be too close to the Crown."
 msgstr ""
 
+#. [message]: id=Nygwyn
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:229
+msgid ""
+"And you, bald mage, better shut up before I finally wipe your fancy mage "
+"school out."
+msgstr ""
+
 #. [message]: id=FirstPaladin
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:254
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:258
 msgid ""
 "Lieutenant Radd told us you're fighting some evil here, so we decided to go "
 "and help!"
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:258
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:262
 msgid "So much for the secret quest ..."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:262
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:266
 msgid ""
 "Boys, this golden thing on the bad guy's head is emanating some shit that "
 "makes people insane. Make sure you don't fall under that."
 msgstr ""
 
 #. [message]: id=SecondPaladin
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:266
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:270
 msgid "We're specially trained to withstand this sort of thing, sir!"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:270
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:274
 msgid ""
 "I hate to admit that, but ... your skills of fighting dragons may be useful "
 "as well today, uhm."
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:278
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:282
 msgid "So all he throws at us is scorpions?"
 msgstr ""
 
 #. [message]: id=GiantSpider
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:294
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:298
 msgid "Click Click."
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:298
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:302
 msgid "Oh that's much better."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:302
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:306
 msgid ""
 "Neollyn, how do you yourself feel? Klader's status makes sure we don't fall "
 "under the influence of the Crown, but I don't think this immunity applies to "
@@ -1403,7 +1422,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:306
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:310
 msgid ""
 "Feeling well so far. I sense the power of the Crown, and it's strong, but my "
 "power is enough to survive it for a while. We'd better be quick though, "
@@ -1411,26 +1430,26 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:333
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:337
 msgid "Oh, finally. Nygwyn reveals his true tastes."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:348
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:352
 msgid ""
 "I, personally, hate nagas. They have some beauty, but they act like crap. No "
 "dignity at all."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:367
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:371
 msgid ""
 "What an ugly abomination. Is this atrocious egoism all he has left? Not even "
 "worth having a second life."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:386
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:390
 #: The_Flight_of_Drakes/scenarios/drakes-9.cfg:295
 msgid ""
 "I'm sorry ... Eagar. You ... were ... a great warrior. Sorry it had to "
@@ -1438,54 +1457,54 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:390
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:394
 msgid "You received 250 gold."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:456
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:460
 msgid "Is it over?"
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:460
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:464
 msgid "Hmm, let me see ..."
 msgstr ""
 
 #. [message]: id=Eagar
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:480
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:484
 msgid "Ouch. What the hell was that?"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:496
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:500
 msgid "Hey Eagar, nice to see you back!"
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:508
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:512
 msgid "Oh my god, this thing is cool!"
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:512
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:516
 msgid "Oh my!..."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:527
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:531
 msgid "What the?... What are you doing, Neollyn the Silver?"
 msgstr ""
 
 #. [modify_unit]: type=Great Mage
 #. [side]: type=Great Mage, id=DarkNeollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:536
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:540
 #: The_Flight_of_Drakes/scenarios/drakes-9.cfg:135
 msgid "Neollyn the Dark"
 msgstr ""
 
 #. [message]: id=Neollyn
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:567
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:561
 msgid ""
 "I am the master now! Ha ha ha ha ha, was so easy to fool you!! All drakes "
 "are there in range, and once you obey me, no drake king will stand on my "
@@ -1493,17 +1512,17 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:584
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:578
 msgid "Y..."
 msgstr ""
 
 #. [message]: id=Ilisfelle
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:600
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:594
 msgid "I'm sorry to interrupt this important meeting, now if you excuse me ..."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:616
+#: The_Flight_of_Drakes/scenarios/drakes-7.cfg:610
 msgid "Everybody, retreat and regroup! Fall back now!!"
 msgstr ""
 
@@ -1516,8 +1535,8 @@ msgstr ""
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:17
 msgid ""
 "Klader found himself in a complete darkness. He didn't really feel much, but "
-"he was comfortable and warm. He realized that he was somehow asleep, and "
-"then slowly opened his eyes."
+"it was comfortable and warm, and he was sensing a fresh air. He realized "
+"that he was somehow asleep, and then slowly opened his eyes."
 msgstr ""
 
 #. [part]
@@ -1545,7 +1564,7 @@ msgstr ""
 
 #. [message]: id=Klader
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:67
-msgid "And who are you supposed to be?"
+msgid "Emm no, I think I didn't. And who are you supposed to be?"
 msgstr ""
 
 #. [message]: id=Ilisfelle
@@ -1598,7 +1617,7 @@ msgstr ""
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:109
 msgid ""
 "So I intervened and burned up all my magic power in order to take a "
-"temporary control over your body and force the drakes to retreat, which was "
+"temporary control over your body and order your drakes to retreat, which was "
 "the only viable option in the chaos that emerged. "
 msgstr ""
 
@@ -1612,9 +1631,9 @@ msgstr ""
 #. [message]: id=Ilisfelle
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:143
 msgid ""
-"Because that is what my life is all about. My name is Ilisfelle, which "
-"literally means ''The Girl of The Morning Sun''. My meaning of life is to "
-"bring hope to wherever it is lost."
+"Because that is what my life is all about. My name, 'Ilisfelle', literally "
+"means ''The Girl of The Morning Sun''. My meaning of life is to bring hope "
+"to wherever it is lost."
 msgstr ""
 
 #. [message]: id=Ilisfelle
@@ -1630,9 +1649,8 @@ msgstr ""
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:151
 msgid ""
 "Don't worry, my magic will restore in time. This will take a few hundred "
-"years, as usual. But every time my meaning of life is fulfilled, I get a "
-"completely new young body. I take a new life. If you were not there, I "
-"couldn't get a new life, since I couldn't bring hope. So you have no debt "
+"years, as usual. But every time my meaning of life is fulfilled, I get "
+"reborn and become young again. I receive a new life. So you have no debt "
 "before me."
 msgstr ""
 
@@ -1737,7 +1755,7 @@ msgid "Nice to see you Radd, you're in time, we've just started!"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-9.cfg:257
+#: The_Flight_of_Drakes/scenarios/drakes-9.cfg:255
 msgid "Looks like Grelgar's alive! What sort of condition he's in?"
 msgstr ""
 
