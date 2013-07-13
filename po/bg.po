@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Flight_of_Drakes-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-01 01:31+0200\n"
+"POT-Creation-Date: 2013-07-13 11:30-0400\n"
 "PO-Revision-Date: 2013-02-11 02:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -49,36 +49,31 @@ msgstr ""
 
 #. [part]
 #: The_Flight_of_Drakes/scenarios/drakes-1.cfg:17
-msgid "I ... am ... awake ..."
+msgid "<i>In moments of truth ...</i>"
 msgstr ""
 
 #. [part]
 #: The_Flight_of_Drakes/scenarios/drakes-1.cfg:20
-msgid "I ... am ... present ..."
+msgid "<i>When the lightning strikes higher ...</i>"
 msgstr ""
 
 #. [part]
 #: The_Flight_of_Drakes/scenarios/drakes-1.cfg:23
-msgid "Come ... and ... claim ... me ..."
+msgid "<i>The strength would remain ...</i>"
 msgstr ""
 
 #. [part]
 #: The_Flight_of_Drakes/scenarios/drakes-1.cfg:26
-msgid "The ... time ... is ... "
-msgstr ""
-
-#. [part]
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:29
-msgid "NOW ..."
+msgid "<i>In the heart filled with fire ...</i>"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:42
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:39
 msgid "Defeat Zzulkz."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:46
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:43
 #: The_Flight_of_Drakes/scenarios/drakes-2.cfg:34
 #: The_Flight_of_Drakes/scenarios/drakes-3.cfg:41
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:34
@@ -89,7 +84,7 @@ msgid "Death of Klader."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:50
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:47
 #: The_Flight_of_Drakes/scenarios/drakes-2.cfg:38
 #: The_Flight_of_Drakes/scenarios/drakes-3.cfg:45
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:38
@@ -99,7 +94,7 @@ msgid "Death of Grelgar."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:54
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:51
 #: The_Flight_of_Drakes/scenarios/drakes-2.cfg:42
 #: The_Flight_of_Drakes/scenarios/drakes-3.cfg:53
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:46
@@ -112,7 +107,7 @@ msgstr ""
 #. [side]: id=Klader
 #. [side]: type=Drake Blademaster, id=Eagar
 #. [side]: type=Fire Drake, id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:67
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:64
 #: The_Flight_of_Drakes/scenarios/drakes-2.cfg:55
 #: The_Flight_of_Drakes/scenarios/drakes-3.cfg:66
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:62
@@ -127,13 +122,13 @@ msgstr ""
 
 #. [modify_unit]
 #. [side]: type=Fire Drake, id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:71
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:68
 #: The_Flight_of_Drakes/scenarios/drakes-8.cfg:55
 msgid "Klader"
 msgstr ""
 
 #. [unit]: id=Grelgar, type=Sky Drake
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:82
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:79
 msgid "Grelgar"
 msgstr ""
 
@@ -141,7 +136,7 @@ msgstr ""
 #. [side]: type=Saurian Flanker, id=Zzunkz
 #. [side]: type=Saurian Flanker, id=Zzzzzz
 #. [side]: type=Saurian Soothsayer, id=Zzulkz
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:101
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:98
 #: The_Flight_of_Drakes/scenarios/drakes-4.cfg:82
 #: The_Flight_of_Drakes/scenarios/drakes-6.cfg:156
 #: The_Flight_of_Drakes/scenarios/drakes-9.cfg:92
@@ -149,24 +144,24 @@ msgid "The Saurians"
 msgstr ""
 
 #. [side]: type=Saurian Soothsayer, id=Zzulkz
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:105
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:102
 msgid "Zzulkz"
 msgstr ""
 
 #. [unit]: id=Zzupde, type=Saurian Ambusher
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:112
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:109
 msgid "Zzupde"
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:138
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:135
 msgid ""
 "Morning ... Not looking well, Klader? Rough and serious, never seen you like "
 "that."
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:142
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:139
 msgid ""
 "I'm feeling it. You know, it's just ... it's exactly like you told me when I "
 "was little."
@@ -174,19 +169,19 @@ msgstr ""
 
 #. [message]: id=Grelgar
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:146
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:143
 #: The_Flight_of_Drakes/scenarios/drakes-7.cfg:574
 #: The_Flight_of_Drakes/scenarios/drakes-9.cfg:251
 msgid "..."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:150
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:147
 msgid "The King's Dream? Has it finally appeared in front of you?"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:154
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:151
 msgid ""
 "Yeah, precisely. Just as the Prophecy said, the Crown of Light has been "
 "found. But ... there's more in it. It somehow seriously doesn't seem to like "
@@ -195,7 +190,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Zzulkz
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:158
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:155
 msgid ""
 "Hey, where do you think you're going, you pathetic walking campfires? Our "
 "hundred-year-old treaty clearly states that you do the hunting for us and we "
@@ -203,7 +198,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:162
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:159
 msgid ""
 "Listen up you filthy parody on a lizard. We are DRAKES. Nobody and noone has "
 "ever constrained us. Our helping you was our own will. Now you no longer "
@@ -213,19 +208,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Zzulkz
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:166
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:163
 msgid ""
 "Grab your spears and take them out, boys. These drakes have broken the "
 "treaty, so they are no longer of any use to us."
 msgstr ""
 
 #. [message]: id=Zzupde
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:170
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:167
 msgid "A drake meat ... Sssssssssh."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:174
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:171
 msgid ""
 "That's what they always do. Also, nice talking, Klader. There are only a few "
 "of us, but I think we can manage. If we just kill Zzulkz, his people won't "
@@ -233,40 +228,40 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:178
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:175
 msgid ""
 "Yeah, and by the way, Grelgar, could you please try to <i>not die</i>? Still "
 "could use your advice, you know ..."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:182
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:179
 msgid "<i>*drake laugh*</i> He he he ... I'll do my best heh."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:191
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:188
 msgid ""
 "Ha ha ha! Great, we've broken free. So, how do you plan to find the Crown "
 "now?"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:195
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:192
 msgid ""
 "Time to pay a visit to an old friend. I hope to get some hint from Neollyn "
 "the Red."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:199
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:196
 msgid ""
 "A human who achieved a ''friend of drakes'' status ... Still, are you sure a "
 "human is allowed to learn about the Crown?"
 msgstr ""
 
 #. [message]: id=Klader
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:203
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:200
 msgid ""
 "I know this guy is clever on different sorts of magical tricks, but anyway, "
 "I have no idea where to go otherwise. I also trust him. He saved my life, "
@@ -276,21 +271,21 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:207
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:204
 msgid ""
 "Then it is decided. Let's go. If you say the Crown has already got into some "
 "wrong hands, then we don't have much time."
 msgstr ""
 
 #. [message]: id=Grelgar
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:211
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:208
 msgid ""
 "We can probably take a few spears from this saurian castle. Some of our "
 "people can make use of them."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:215
+#: The_Flight_of_Drakes/scenarios/drakes-1.cfg:212
 msgid "You can now recruit Clashers."
 msgstr ""
 
@@ -1875,4 +1870,11 @@ msgstr ""
 #. [message]: id=Klader
 #: The_Flight_of_Drakes/scenarios/drakes-9.cfg:405
 msgid ":)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Flight_of_Drakes/scenarios/drakes-9.cfg:409
+msgid ""
+"Here we conclude the first chapter of the Legends of the Emerald Forest. The "
+"second legend is already available! Look for the 'Only Death Behind' addon."
 msgstr ""
